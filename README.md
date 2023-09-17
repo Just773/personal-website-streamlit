@@ -6,10 +6,6 @@ Create a personal website using Python and the Streamlit library. This website w
 ## Check out the website here
 📢 https://share.streamlit.io/sven-bo/personal-website-streamlit/app.py
 
-## Screenshots
-![Screenshots](/demo/screenshot1.jpg?raw=true)
-![Screenshots](/demo/screenshot2.jpg?raw=true)
-![Screenshots](/demo/screenshot3.jpg?raw=true)
 
 
 ## Requirements
@@ -46,6 +42,6 @@ watchdog==2.1.8
 
 
 ## Feedback
-If you have any feedback, please reach out to me at contact@pythonandvba.com
+If you have any feedback, please reach out to me at contact
 justineopolot4@gmail.com ( 0777959480)
 
